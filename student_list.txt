@@ -1,0 +1,7 @@
+[student], [course], [semester], [instructor], [section]
+John Doe,ICP,Spring 2018,Romain Corcolle,001/002
+Bob Smith,ICP,Spring 2018,Daniel Simon,003/004
+Jane Roe,ICP,Spring 2018,Olivier Marin,013/014
+Joe Public,ICS,Spring 2018,Joyce Fu,003/004
+Jean Martin,ICP,Summer 2018,Olivier Marin,001/002
+...
